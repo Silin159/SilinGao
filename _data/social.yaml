@@ -1,0 +1,14 @@
+google-scholar: 
+  link: https://scholar.google.com/citations?user=GzH9mVIAAAAJ&hl=en
+  name: Google Scholar
+github: 
+  link: https://github.com/bayazitdeniz
+  name: GitHub
+linkedin: 
+  link: https://www.linkedin.com/in/bayazit-deniz/
+  name: LinkedIn
+email:
+  name: "deniz [.d-o-t.] bayazit [.a-t.] epfl [.d-o-t.] ch"
+cv:
+  link: "/public/deniz-bayazit-resume-2021-website.pdf"
+  name: "Resume - updated Oct 2021"

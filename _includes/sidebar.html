@@ -1,0 +1,56 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <!-- Avatar Image -->
+      <img src="/public/profile-pic.jpg" alt="Avatar" class="avatar">
+      
+      <!-- Title -->
+      <h1>
+        <a href="{{ site.url }}">
+          {{ site.title }}
+        </a>
+      </h1>
+
+      <!-- Social Media Links -->
+      {% assign social_list = site.data.social %}
+      <ul class="fa-ul social" spacing="compact">
+        <li class="social"><span class="fa-li"><i class="fas fa-envelope-open-text"></i></span>{{ social_list.email.name }}</li>
+
+        <li class="social"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span><a href="{{ social_list.google-scholar.link }}">{{ social_list.google-scholar.name }}</a></li>
+        <li class="social"><span class="fa-li"><i class="fab fa-github"></i></span><a href="{{ social_list.github.link }}">{{ social_list.github.name }}</a></li>
+        <li class="social"><span class="fa-li"><i class="fab fa-linkedin"></i></span><a href="{{ social_list.linkedin.link }}">{{ social_list.linkedin.name }}</a></li>
+        
+
+        <li class="social"><span class="fa-li"><i class="fas fa-file"></i></span><a href="{{ social_list.cv.link }}">{{ social_list.cv.name }}</a></li>
+      </ul>
+    </div>
+
+    <!-- Anchor Navigation -->
+    <nav class="sidebar-nav">
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            {% if page.url == site.url %}
+            <!-- <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a> -->
+            <a class="sidebar-nav-item" href="{{ site.baseurl }}#{{ node.title }}">{{ node.title }}</a>
+            {% else %}
+            <a class="sidebar-nav-item" href="{{ site.url }}/#{{ node.title }}">{{ node.title }}</a>
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+    </nav>
+
+    <span class="sidebar-nav-item">
+      <a href="https://github.com/poole/hyde">Hyde Template</a><br>
+    </span>
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>
