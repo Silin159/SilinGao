@@ -1,7 +1,6 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-remote_theme:     poole/hyde
 
 # Permalinks
 permalink:        pretty
@@ -12,7 +11,7 @@ title:            'Silin Gao'
 # tagline:          
 # description:      'Hello! I am a PhD student in NLP Lab @EPFL.'
 url:              http://silingao.github.io
-baseurl:          /
+baseurl:          https://silin159.github.io/silingao.github.io/
 
 author:
   name:           'Silin Gao'
