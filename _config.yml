@@ -1,0 +1,37 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            'Silin Gao'
+# tagline:          
+# description:      'Hello! I am a PhD student in NLP Lab @EPFL.'
+url:              http://silingao.github.io
+baseurl:          /
+
+author:
+  name:           'Silin Gao'
+  # url:            
+
+plugins: [jekyll-paginate]
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+
+# Custom vars
+# version:          2.1.0
+github:
+  repo:           https://github.com/Silin159/silingao.github.io
+
+collections:
+  pages:
+    order:
+      - /pages/about.md
+      - /pages/pubs.md
+      - /pages/teaching.md
+
+exclude: [website.code-workspace]
