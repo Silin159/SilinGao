@@ -15,7 +15,7 @@ permalink: /pubs/
     {% endif %}
 
     {% if pub.pdf-link != null %}
-    <a href="{{ pub.pdf-link }}">[PDF]</a>
+    <a href="{{ pub.pdf-link }}">[pdf]</a>
     {% endif %}
 
     {% if pub.website != null %}
@@ -23,7 +23,7 @@ permalink: /pubs/
     {% endif %}
 
     {% if pub.code-link != null %}
-    <a href="{{ pub.code-link }}">[data]</a>
+    <a href="{{ pub.code-link }}">[code]</a>
     {% endif %}
 
     {% if pub.video-link != null %}
@@ -45,7 +45,7 @@ permalink: /pubs/
     {% endif %}
 
     {% if pub.pdf-link != null %}
-    <a href="{{ pub.pdf-link }}">[PDF]</a>
+    <a href="{{ pub.pdf-link }}">[pdf]</a>
     {% endif %}
 
     {% if pub.website != null %}
@@ -53,7 +53,7 @@ permalink: /pubs/
     {% endif %}
 
     {% if pub.code-link != null %}
-    <a href="{{ pub.code-link }}">[data]</a>
+    <a href="{{ pub.code-link }}">[code]</a>
     {% endif %}
 
     {% if pub.video-link != null %}
@@ -75,7 +75,7 @@ permalink: /pubs/
     {% endif %}
 
     {% if pub.pdf-link != null %}
-    <a href="{{ pub.pdf-link }}">[PDF]</a>
+    <a href="{{ pub.pdf-link }}">[pdf]</a>
     {% endif %}
 
     {% if pub.website != null %}
@@ -83,7 +83,7 @@ permalink: /pubs/
     {% endif %}
 
     {% if pub.code-link != null %}
-    <a href="{{ pub.code-link }}">[data]</a>
+    <a href="{{ pub.code-link }}">[code]</a>
     {% endif %}
 
     {% if pub.video-link != null %}
