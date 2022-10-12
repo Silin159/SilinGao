@@ -10,5 +10,5 @@ linkedin:
 email:
   name: "Email: silin.gao@epfl.ch"
 cv:
-  link: {{ site.baseurl }}public/cv.pdf
+  link: https://github.com/Silin159/SilinGao/blob/main/public/cv.pdf
   name: CV
