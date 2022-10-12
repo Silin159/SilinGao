@@ -22,12 +22,8 @@ permalink: /pubs/
     <a href="{{ pub.website }}">[website]</a>
     {% endif %}
 
-    {% if pub.git-link != null %}
-    <a href="{{ pub.git-link }}">[code]</a>
-    {% endif %}
-
-    {% if pub.data-link != null %}
-    <a href="{{ pub.data-link }}">[data]</a>
+    {% if pub.code-link != null %}
+    <a href="{{ pub.code-link }}">[data]</a>
     {% endif %}
 
     {% if pub.video-link != null %}
@@ -56,12 +52,8 @@ permalink: /pubs/
     <a href="{{ pub.website }}">[website]</a>
     {% endif %}
 
-    {% if pub.git-link != null %}
-    <a href="{{ pub.git-link }}">[code]</a>
-    {% endif %}
-
-    {% if pub.data-link != null %}
-    <a href="{{ pub.data-link }}">[data]</a>
+    {% if pub.code-link != null %}
+    <a href="{{ pub.code-link }}">[data]</a>
     {% endif %}
 
     {% if pub.video-link != null %}
@@ -90,12 +82,8 @@ permalink: /pubs/
     <a href="{{ pub.website }}">[website]</a>
     {% endif %}
 
-    {% if pub.git-link != null %}
-    <a href="{{ pub.git-link }}">[code]</a>
-    {% endif %}
-
-    {% if pub.data-link != null %}
-    <a href="{{ pub.data-link }}">[data]</a>
+    {% if pub.code-link != null %}
+    <a href="{{ pub.code-link }}">[data]</a>
     {% endif %}
 
     {% if pub.video-link != null %}
