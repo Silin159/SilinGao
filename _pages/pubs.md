@@ -4,7 +4,7 @@ title: Publications
 permalink: /pubs/
 ---
 {% if site.data.pubs.preprint != null %}
-## Preprints
+<!-- ## Preprints -->
 {% for pub in site.data.pubs.preprint %}
 <p class="message">
     <b>{{ pub.title }}</b><br>
@@ -34,7 +34,7 @@ permalink: /pubs/
 {% endif %}
 
 {% if site.data.pubs.conference != null %}
-## Conference Papers
+<!-- ## Conference Papers -->
 {% for pub in site.data.pubs.conference %}
 <p class="message">
     <b>{{ pub.title }}</b><br>
@@ -64,7 +64,7 @@ permalink: /pubs/
 {% endif %}
 
 {% if site.data.pubs.thesis != null %}
-## Thesis Work
+<!-- ## Thesis Work -->
 {% for pub in site.data.pubs.thesis %}
 <p class="message">
     <b>{{ pub.title }}</b><br>
