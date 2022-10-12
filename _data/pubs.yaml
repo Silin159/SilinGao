@@ -1,0 +1,21 @@
+conference:
+  - title: End-to-End Task-Oriented Dialog Modeling with Semi-Structured Knowledge Management
+    author: Silin Gao, Ryuichi Takanobu, Antoine Bosselut, Minlie Huang
+    venue: IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
+    pdf-link: https://arxiv.org/abs/2106.11796
+    code-link: https://github.com/Silin159/SeKnow
+  - title: "HyKnow: End-to-End Task-Oriented Dialog Modeling with Hybrid Knowledge Management"
+    author: Silin Gao, Ryuichi Takanobu, Wei Peng, Qun Liu, Minlie Huang
+    venue: Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)
+    pdf-link: https://arxiv.org/abs/2105.06041
+    code-link: https://github.com/truthless11/HyKnow
+  - title: Paraphrase Augmented Task-Oriented Dialog Generation
+    author: Silin Gao, Yichi Zhang, Zhijian Ou, Zhou Yu
+    venue: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)
+    pdf-link: https://arxiv.org/abs/2004.07462
+    code-link: https://github.com/Silin159/PARG
+  - title: Integrating Discrete and Neural Features Via Mixed-Feature Trans-Dimensional Random Field Language Models
+    author: Silin Gao, Zhijian Ou, Wei Yang, Huifang Xu
+    venue: 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+    pdf-link: https://arxiv.org/abs/2002.05967
+    code-link: https://github.com/thu-spmi/SPMILM

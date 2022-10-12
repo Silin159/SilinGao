@@ -1,0 +1,14 @@
+google-scholar: 
+  link: https://scholar.google.com/citations?user=SXP4blIAAAAJ&hl=en
+  name: Google Scholar
+github: 
+  link: https://github.com/Silin159
+  name: GitHub
+linkedin: 
+  link: https://www.linkedin.com/in/silin-gao-7b4220241/
+  name: LinkedIn
+email:
+  name: "Email: silin.gao@epfl.ch"
+cv:
+  link: https://drive.google.com/file/d/1Jci7M5gSLPY96gayCyjBXSxGms6lCaVI/view
+  name: CV
