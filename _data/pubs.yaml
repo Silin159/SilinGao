@@ -1,5 +1,5 @@
 conference:
-  - title: ComFact: A Benchmark for Linking Contextual Commonsense Knowledge
+  - title: "ComFact: A Benchmark for Linking Contextual Commonsense Knowledge"
     author: Silin Gao, Jena D. Hwang, Saya Kanno, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut
     venue: Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)
     pdf-link: https://arxiv.org/abs/2210.12678
