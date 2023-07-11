@@ -14,6 +14,10 @@ permalink: /pubs/
     <i>{{ pub.venue }}</i><br>
     {% endif %}
 
+    {% if pub.award != null %}
+    <b>{{ pub.award }}</b><br>
+    {% endif %}
+
     {% if pub.pdf-link != null %}
     <a href="{{ pub.pdf-link }}">[pdf]</a>
     {% endif %}
@@ -44,6 +48,10 @@ permalink: /pubs/
     <i>{{ pub.venue }}</i><br>
     {% endif %}
 
+    {% if pub.award != null %}
+    <b>{{ pub.award }}</b><br>
+    {% endif %}
+
     {% if pub.pdf-link != null %}
     <a href="{{ pub.pdf-link }}">[pdf]</a>
     {% endif %}
@@ -72,6 +80,10 @@ permalink: /pubs/
 
     {% if pub.venue != null %}
     <i>{{ pub.venue }}</i><br>
+    {% endif %}
+
+    {% if pub.award != null %}
+    <b>{{ pub.award }}</b><br>
     {% endif %}
 
     {% if pub.pdf-link != null %}
