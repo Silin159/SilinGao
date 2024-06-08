@@ -5,7 +5,7 @@ conference:
     pdf-link: https://arxiv.org/abs/2401.17464
   - title: "DiffuCOMET: Contextual Commonsense Knowledge Diffusion"
     author: Silin Gao, Mete Ismayilzada, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut
-    venue: arXiv preprint
+    venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)
     pdf-link: https://arxiv.org/abs/2402.17011
     code-link: https://github.com/Silin159/DiffuCOMET
   - title: "PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives"
