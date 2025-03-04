@@ -1,4 +1,7 @@
 conference:
+  - title: "VinaBench: Benchmark for Faithful and Consistent Visual Narratives"
+    author: Silin Gao, Sheryl Mathew, Li Mi, Sepideh Mamooler, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Syrielle Montariol, Antoine Bosselut
+    venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)
   - title: "Efficient Tool Use with Chain-of-Abstraction Reasoning"
     author: Silin Gao, Jane Dwivedi-Yu, Ping Yu, Xiaoqing Ellen Tan, Ramakanth Pasunuru, Olga Golovneva, Koustuv Sinha, Asli Celikyilmaz, Antoine Bosselut, Tianlu Wang
     venue: Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)
