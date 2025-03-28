@@ -23,7 +23,7 @@ permalink: /pubs/
     {% endif %}
 
     {% if pub.pdf-link != null %}
-    <a href="{{ pub.pdf-link }}">[Dataset]</a>
+    <a href="{{ pub.data-link }}">[Dataset]</a>
     {% endif %}
 
     {% if pub.code-link != null %}
@@ -65,7 +65,7 @@ permalink: /pubs/
     {% endif %}
 
     {% if pub.pdf-link != null %}
-    <a href="{{ pub.pdf-link }}">[Dataset]</a>
+    <a href="{{ pub.data-link }}">[Dataset]</a>
     {% endif %}
 
     {% if pub.code-link != null %}
@@ -107,7 +107,7 @@ permalink: /pubs/
     {% endif %}
 
     {% if pub.pdf-link != null %}
-    <a href="{{ pub.pdf-link }}">[Dataset]</a>
+    <a href="{{ pub.data-link }}">[Dataset]</a>
     {% endif %}
 
     {% if pub.code-link != null %}
