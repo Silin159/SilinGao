@@ -2,10 +2,15 @@ conference:
   - title: "VinaBench: Benchmark for Faithful and Consistent Visual Narratives"
     author: Silin Gao, Sheryl Mathew, Li Mi, Sepideh Mamooler, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Syrielle Montariol, Antoine Bosselut
     venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)
+    pdf-link: https://arxiv.org/abs/2503.20871
+    website: https://silin159.github.io/Vina-Bench/
+    code-link: https://github.com/Silin159/VinaBench
+    data-link: https://huggingface.co/datasets/Silin1590/VinaBench
   - title: "Efficient Tool Use with Chain-of-Abstraction Reasoning"
     author: Silin Gao, Jane Dwivedi-Yu, Ping Yu, Xiaoqing Ellen Tan, Ramakanth Pasunuru, Olga Golovneva, Koustuv Sinha, Asli Celikyilmaz, Antoine Bosselut, Tianlu Wang
     venue: Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)
     pdf-link: https://arxiv.org/abs/2401.17464
+    poster-link: https://github.com/Silin159/CoA/blob/main/CoA_Poster_COLING.pdf
   - title: "DiffuCOMET: Contextual Commonsense Knowledge Diffusion"
     author: Silin Gao, Mete Ismayilzada, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut
     venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)
@@ -17,11 +22,13 @@ conference:
     award: Outstanding Paper Award
     pdf-link: https://arxiv.org/abs/2305.02364
     code-link: https://github.com/Silin159/PeaCoK
+    data-link: https://huggingface.co/datasets/Silin1590/PeaCoK
   - title: "ComFact: A Benchmark for Linking Contextual Commonsense Knowledge"
     author: Silin Gao, Jena D. Hwang, Saya Kanno, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut
     venue: Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)
     pdf-link: https://arxiv.org/abs/2210.12678
     code-link: https://github.com/Silin159/ComFact
+    data-link: https://huggingface.co/datasets/Silin1590/ComFact
   - title: End-to-End Task-Oriented Dialog Modeling with Semi-Structured Knowledge Management
     author: Silin Gao, Ryuichi Takanobu, Antoine Bosselut, Minlie Huang
     venue: IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
