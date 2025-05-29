@@ -1,51 +1,68 @@
 conference:
+  - title: "Augmenting LLMs’ Reasoning by Reinforcing Abstract Thinking"
+    author: **Silin Gao**, Antoine Bosselut, Samy Bengio, Emmanuel Abbe
+    venue: Submitted to the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
+  - title: "Robust Reasoning with Contextualized Visual Representation Learning"
+    author: Wenkai Chen, **Silin Gao**, Albert Gatt, Antoine Bosselut
+    venue: Submitted to ACL Rolling Review (ARR) 2025 May (for EMNLP 2025)
+  - title: "CriteriaPO: Criteria Preference Optimization from Fine-Grained AI Feedback"
+    author: Beatriz Borges, **Silin Gao**, Syrielle Montariol, Antoine Bosselut
+    venue: Submitted to ACL Rolling Review (ARR) 2025 May (for EMNLP 2025)
   - title: "VinaBench: Benchmark for Faithful and Consistent Visual Narratives"
-    author: Silin Gao, Sheryl Mathew, Li Mi, Sepideh Mamooler, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Syrielle Montariol, Antoine Bosselut
+    author: **Silin Gao**, Sheryl Mathew, Li Mi, Sepideh Mamooler, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Syrielle Montariol, Antoine Bosselut
     venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)
     pdf-link: https://arxiv.org/abs/2503.20871
     website: https://silin159.github.io/Vina-Bench/
     code-link: https://github.com/Silin159/VinaBench
     data-link: https://huggingface.co/datasets/Silin1590/VinaBench
   - title: "Efficient Tool Use with Chain-of-Abstraction Reasoning"
-    author: Silin Gao, Jane Dwivedi-Yu, Ping Yu, Xiaoqing Ellen Tan, Ramakanth Pasunuru, Olga Golovneva, Koustuv Sinha, Asli Celikyilmaz, Antoine Bosselut, Tianlu Wang
+    author: **Silin Gao**, Jane Dwivedi-Yu, Ping Yu, Xiaoqing Ellen Tan, Ramakanth Pasunuru, Olga Golovneva, Koustuv Sinha, Asli Celikyilmaz, Antoine Bosselut, Tianlu Wang
     venue: Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)
     pdf-link: https://arxiv.org/abs/2401.17464
     poster-link: https://github.com/Silin159/CoA/blob/main/CoA_Poster_COLING.pdf
   - title: "DiffuCOMET: Contextual Commonsense Knowledge Diffusion"
-    author: Silin Gao, Mete Ismayilzada, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut
+    author: **Silin Gao**, Mete Ismayilzada, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut
     venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)
     pdf-link: https://arxiv.org/abs/2402.17011
     code-link: https://github.com/Silin159/DiffuCOMET
+  - title: "Could ChatGPT get an engineering degree? Evaluating higher education vulnerability to AI assistants"
+    author: Beatriz Borges, Negar Foroutan, Deniz Bayazit, Anna Sotnikova, Syrielle Montariol, Tanya Nazaretsky, Mohammadreza Banaei, Alireza Sakhaeirad, Philippe Servant, Seyed Parsa Neshaei, Jibril Frej, Angelika Romanou, Gail Weiss, Sepideh Mamooler, Zeming Chen, Simin Fan, **Silin Gao**, Mete Ismayilzada, Debjit Paul, Philippe Schwaller, Sacha Friedli, Patrick Jermann, Tanja Kaser, Antoine Bosselut
+    venue: Proceedings of the National Academy of Sciences
+    pdf-link: https://www.pnas.org/doi/epub/10.1073/pnas.2414955121
+  - title: "ComperDial: Commonsense Persona-grounded Dialogue Dataset and Benchmark"
+    author: Hiromi Wakaki, Yuki Mitsufuji, Yoshinori Maeda, Yukiko Nishimura, **Silin Gao**, Mengjie Zhao, Keiichi Yamada, Antoine Bosselut
+    venue: ArXiv preprint
+    pdf-link: https://arxiv.org/abs/2406.11228
   - title: "PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives"
-    author: Silin Gao, Beatriz Borges, Soyoung Oh, Deniz Bayazit, Saya Kanno, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut
+    author: **Silin Gao**, Beatriz Borges, Soyoung Oh, Deniz Bayazit, Saya Kanno, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut
     venue: Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)
     award: Outstanding Paper Award
     pdf-link: https://arxiv.org/abs/2305.02364
     code-link: https://github.com/Silin159/PeaCoK
     data-link: https://huggingface.co/datasets/Silin1590/PeaCoK
   - title: "ComFact: A Benchmark for Linking Contextual Commonsense Knowledge"
-    author: Silin Gao, Jena D. Hwang, Saya Kanno, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut
+    author: **Silin Gao**, Jena D. Hwang, Saya Kanno, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut
     venue: Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)
     pdf-link: https://arxiv.org/abs/2210.12678
     code-link: https://github.com/Silin159/ComFact
     data-link: https://huggingface.co/datasets/Silin1590/ComFact
   - title: End-to-End Task-Oriented Dialog Modeling with Semi-Structured Knowledge Management
-    author: Silin Gao, Ryuichi Takanobu, Antoine Bosselut, Minlie Huang
+    author: **Silin Gao**, Ryuichi Takanobu, Antoine Bosselut, Minlie Huang
     venue: IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
     pdf-link: https://arxiv.org/abs/2106.11796
     code-link: https://github.com/Silin159/SeKnow
   - title: "HyKnow: End-to-End Task-Oriented Dialog Modeling with Hybrid Knowledge Management"
-    author: Silin Gao, Ryuichi Takanobu, Wei Peng, Qun Liu, Minlie Huang
+    author: **Silin Gao**, Ryuichi Takanobu, Wei Peng, Qun Liu, Minlie Huang
     venue: Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)
     pdf-link: https://arxiv.org/abs/2105.06041
     code-link: https://github.com/truthless11/HyKnow
   - title: Paraphrase Augmented Task-Oriented Dialog Generation
-    author: Silin Gao, Yichi Zhang, Zhijian Ou, Zhou Yu
+    author: **Silin Gao**, Yichi Zhang, Zhijian Ou, Zhou Yu
     venue: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)
     pdf-link: https://arxiv.org/abs/2004.07462
     code-link: https://github.com/Silin159/PARG
   - title: Integrating Discrete and Neural Features Via Mixed-Feature Trans-Dimensional Random Field Language Models
-    author: Silin Gao, Zhijian Ou, Wei Yang, Huifang Xu
+    author: **Silin Gao**, Zhijian Ou, Wei Yang, Huifang Xu
     venue: 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
     pdf-link: https://arxiv.org/abs/2002.05967
     code-link: https://github.com/thu-spmi/SPMILM
