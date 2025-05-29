@@ -1,13 +1,4 @@
 conference:
-  - title: "Augmenting LLMs’ Reasoning by Reinforcing Abstract Thinking"
-    author: **Silin Gao**, Antoine Bosselut, Samy Bengio, Emmanuel Abbe
-    venue: Submitted to the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
-  - title: "Robust Reasoning with Contextualized Visual Representation Learning"
-    author: Wenkai Chen, **Silin Gao**, Albert Gatt, Antoine Bosselut
-    venue: Submitted to ACL Rolling Review (ARR) 2025 May (for EMNLP 2025)
-  - title: "CriteriaPO: Criteria Preference Optimization from Fine-Grained AI Feedback"
-    author: Beatriz Borges, **Silin Gao**, Syrielle Montariol, Antoine Bosselut
-    venue: Submitted to ACL Rolling Review (ARR) 2025 May (for EMNLP 2025)
   - title: "VinaBench: Benchmark for Faithful and Consistent Visual Narratives"
     author: **Silin Gao**, Sheryl Mathew, Li Mi, Sepideh Mamooler, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Syrielle Montariol, Antoine Bosselut
     venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)
