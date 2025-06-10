@@ -2,6 +2,7 @@ conference:
   - title: "Augmenting LLMs’ Reasoning by Reinforcing Abstract Thinking"
     author: Silin Gao, Antoine Bosselut, Samy Bengio, Emmanuel Abbe
     venue: Preprint. Under review.
+    pdf-link: https://arxiv.org/abs/2506.07751
   - title: "Robust Reasoning with Contextualized Visual Representation Learning"
     author: Wenkai Chen, Silin Gao, Albert Gatt, Antoine Bosselut
     venue: Preprint. Under review.
