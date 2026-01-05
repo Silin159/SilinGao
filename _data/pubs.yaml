@@ -6,6 +6,7 @@ conference:
   - title: "Robust Reasoning with Contextualized Visual Representation Learning"
     author: Wenkai Chen, Silin Gao, Albert Gatt, Antoine Bosselut
     venue: Preprint. Under review.
+    pdf-link: https://github.com/Silin159/SilinGao/blob/main/public/c_vit.pdf
   - title: "CriteriaPO: Criteria Preference Optimization from Fine-Grained AI Feedback"
     author: Beatriz Borges, Silin Gao, Syrielle Montariol, Antoine Bosselut
     venue: Preprint. Under review.
